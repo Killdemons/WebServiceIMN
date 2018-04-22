@@ -1,0 +1,10 @@
+C:\Users\Anthonny\Downloads\DemoWebService\bin\Debug\DemoWebService.exe.config
+C:\Users\Anthonny\Downloads\DemoWebService\bin\Debug\DemoWebService.exe
+C:\Users\Anthonny\Downloads\DemoWebService\bin\Debug\DemoWebService.pdb
+C:\Users\Anthonny\Downloads\DemoWebService\obj\Debug\DemoWebService.csprojResolveAssemblyReference.cache
+C:\Users\Anthonny\Downloads\DemoWebService\obj\Debug\DemoWebService.FrmPronostico.resources
+C:\Users\Anthonny\Downloads\DemoWebService\obj\Debug\DemoWebService.Properties.Resources.resources
+C:\Users\Anthonny\Downloads\DemoWebService\obj\Debug\DemoWebService.csproj.GenerateResource.cache
+C:\Users\Anthonny\Downloads\DemoWebService\obj\Debug\DemoWebService.csproj.CoreCompileInputs.cache
+C:\Users\Anthonny\Downloads\DemoWebService\obj\Debug\DemoWebService.exe
+C:\Users\Anthonny\Downloads\DemoWebService\obj\Debug\DemoWebService.pdb
